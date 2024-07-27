@@ -25,16 +25,19 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-kumar-624082ab/) 
 [![HackerRank](https://github.com/rajeshkio/rajeshkio/blob/master/hackerrank-logo.png)](https://www.hackerrank.com/rk90229?hr_r=1/) 
 
+### My Latest Articles
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rk90229/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rk90229/0" alt="Recent Article 0"> 
+ 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rk90229/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rk90229/1" alt="Recent Article 1">
+
 # 💻 Tech Stack:
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)  ![Argocd](https://img.shields.io/badge/argocd-11.svg?style=for-the-badge&logo=argo&logoColor=white&color=orange&link=https%3A%2F%2Fargo-cd.readthedocs.io%2F) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitOps](https://img.shields.io/badge/gitops-11.svg?style=for-the-badge&logo=git&logoColor=white&color=blue&link=https%3A%2F%2Fgithub.com%2Freadme%2Ffeatured%2Fdefining-gitops) ![Grafana](https://img.shields.io/badge/grafana-11.svg?style=for-the-badge&logo=grafana&logoColor=white&color=orange&link=https%3A%2F%2Fgrafana.com%2F) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NeuVector](https://img.shields.io/badge/neuvector-1223.svg?style=for-the-badge&logo=neuvector&logoColor=neuvector&color=blue&link=https%3A%2F%2Fopen-docs.neuvector.com%2F) ![Networking](https://img.shields.io/badge/networking-11.svg?style=for-the-badge&logo=networking&logoColor=white&color=blue&link=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FComputer_network) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Prometheus](https://img.shields.io/badge/prometheus-11.svg?style=for-the-badge&logo=prometheus&logoColor=white&color=black&link=https%3A%2F%2Fprometheus.io)
  ![Python](https://img.shields.io/badge/python-1.svg?style=for-the-badge&logo=Python&logoColor=white&color=blue&link=https%3A%2F%2Fwww.python.org%2F)  ![Pulumi](https://img.shields.io/badge/pulumi-11.svg?style=for-the-badge&logo=pulumi&logoColor=white&color=blue&link=https%3A%2F%2Fwww.pulumi.com%2F) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)  
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rajeshkio&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rajeshkio&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshkio&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rajeshkio&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rajeshkio&icon=0&color=0)](https://visitcount.itsvg.in)
