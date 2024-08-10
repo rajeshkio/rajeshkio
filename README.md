@@ -23,7 +23,6 @@
 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-kumar-624082ab/) 
-[![HackerRank](https://github.com/rajeshkio/rajeshkio/blob/master/hackerrank-logo.png)](https://www.hackerrank.com/rk90229?hr_r=1/) 
 
 ### My Latest Articles
 <!-- BLOG-POST-LIST:START -->
