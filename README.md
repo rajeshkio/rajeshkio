@@ -26,11 +26,11 @@
 
 ### My Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Debugging SSL Certificate Problems in Kubernetes: A Hands-On Approach to Fixing x509 Errors](https://medium.com/@rk90229/debugging-ssl-certificate-problems-in-kubernetes-a-hands-on-approach-to-fixing-x509-errors-8f0691f500ff?source=rss-65fba88b5e52------2)
 - [How to configure Keycloak using REST API](https://medium.com/@rk90229/integrating-keycloak-for-role-management-across-systems-3597f1f3e7c2?source=rss-65fba88b5e52------2)
 - [My Journey to VPN Mastery: Part 2—How Tailscale Solved My Remote Woes](https://medium.com/@rk90229/my-journey-to-vpn-mastery-part-2-how-tailscale-solved-my-remote-woes-cad10fc31598?source=rss-65fba88b5e52------2)
 - [My Journey to VPN Mastery: How I Solved My Remote Work Woes](https://medium.com/@rk90229/my-journey-to-vpn-mastery-how-i-solved-my-remote-work-woes-d97b86e46491?source=rss-65fba88b5e52------2)
 - [From local to pod: How kubectl port-forward work?](https://medium.com/@rk90229/from-local-to-pod-how-kubectl-port-forward-bridges-the-gap-0b27af2a7aea?source=rss-65fba88b5e52------2)
-- [Understanding the Importance of `mmap`: A Deep Dive with `cat`](https://medium.com/@rk90229/understanding-the-importance-of-mmap-a-deep-dive-with-cat-f166e36d7b04?source=rss-65fba88b5e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
