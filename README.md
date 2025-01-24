@@ -26,7 +26,7 @@
 
 ### My Latest Articles
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with AWS IAM Roles Anywhere: A Step-by-Step Guide](https://medium.com/@rk90229/getting-started-with-aws-iam-roles-anywhere-a-step-by-step-guide-8902a9ddee62?source=rss-65fba88b5e52------2)
+- [How to setup AWS IAM Roles Anywhere: A Step-by-Step Guide](https://medium.com/@rk90229/getting-started-with-aws-iam-roles-anywhere-a-step-by-step-guide-8902a9ddee62?source=rss-65fba88b5e52------2)
 - [What Is IP Masquerade? A Simple Explanation of This Powerful NAT Feature](https://medium.com/@rk90229/what-is-ip-masquerade-a-simple-explanation-of-this-powerful-nat-feature-445eecca43e8?source=rss-65fba88b5e52------2)
 - [Why Your Email Says ‘Sent’ But Isn’t Delivered Yet](https://medium.com/@rk90229/why-your-email-says-sent-but-isn-t-delivered-yet-ddb26b471258?source=rss-65fba88b5e52------2)
 - [Debugging SSL Certificate Problems in Kubernetes: A Hands-On Approach to Fixing x509 Errors](https://medium.com/@rk90229/debugging-ssl-certificate-problems-in-kubernetes-a-hands-on-approach-to-fixing-x509-errors-8f0691f500ff?source=rss-65fba88b5e52------2)
