@@ -26,7 +26,7 @@
 
 ### My Latest Articles
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up HashiCorp Vault on Kubernetes: A Beginner-Friendly Guide](https://medium.com/@rk90229/setting-up-hashicorp-vault-on-kubernetes-a-beginner-friendly-guide-9208a861ca96?source=rss-65fba88b5e52------2)
+- [How to Set Up HashiCorp Vault on Kubernetes](https://medium.com/@rk90229/setting-up-hashicorp-vault-on-kubernetes-a-beginner-friendly-guide-9208a861ca96?source=rss-65fba88b5e52------2)
 - [Automating DNS Updates in AWS with ExternalDNS and AWS Roles Anywhere](https://medium.com/@rk90229/automating-dns-updates-in-aws-with-externaldns-and-aws-roles-anywhere-c1db531fe6b4?source=rss-65fba88b5e52------2)
 - [How to setup AWS IAM Roles Anywhere: A Step-by-Step Guide](https://medium.com/@rk90229/getting-started-with-aws-iam-roles-anywhere-a-step-by-step-guide-8902a9ddee62?source=rss-65fba88b5e52------2)
 - [What Is IP Masquerade? A Simple Explanation of This Powerful NAT Feature](https://medium.com/@rk90229/what-is-ip-masquerade-a-simple-explanation-of-this-powerful-nat-feature-445eecca43e8?source=rss-65fba88b5e52------2)
