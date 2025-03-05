@@ -26,11 +26,11 @@
 
 ### My Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [How to Build an HTTP Server in Go: Getting Started](https://medium.com/@rk90229/how-to-build-http-servers-in-go-getting-started-cd9704623932?source=rss-65fba88b5e52------2)
 - [Kubernetes Apply: Client-Side vs. Server-Side](https://medium.com/@rk90229/kubernetes-apply-client-side-vs-server-side-b836f2f2bddb?source=rss-65fba88b5e52------2)
 - [The Complete Guide to Setting Up Cilium on K3s with Kubernetes Gateway API](https://medium.com/@rk90229/the-complete-guide-to-setting-up-cilium-on-k3s-with-kubernetes-gateway-api-8f78adcddb4d?source=rss-65fba88b5e52------2)
 - [How to Set Up HashiCorp Vault on Kubernetes](https://medium.com/@rk90229/setting-up-hashicorp-vault-on-kubernetes-a-beginner-friendly-guide-9208a861ca96?source=rss-65fba88b5e52------2)
 - [Automating DNS Updates in AWS with ExternalDNS and AWS Roles Anywhere](https://medium.com/@rk90229/automating-dns-updates-in-aws-with-externaldns-and-aws-roles-anywhere-c1db531fe6b4?source=rss-65fba88b5e52------2)
-- [How to setup AWS IAM Roles Anywhere: A Step-by-Step Guide](https://medium.com/@rk90229/getting-started-with-aws-iam-roles-anywhere-a-step-by-step-guide-8902a9ddee62?source=rss-65fba88b5e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
