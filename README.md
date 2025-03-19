@@ -26,11 +26,11 @@
 
 ### My Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Go Embeddings: A Deep Dive into Struct Composition](https://medium.com/@rk90229/understanding-go-embeddings-a-deep-dive-into-struct-composition-29704b22964d?source=rss-65fba88b5e52------2)
 - [Kubernetes Go Client Deep Dive: Building a Pod Resource Monitor from Scratch](https://medium.com/@rk90229/kubernetes-go-client-deep-dive-building-a-pod-resource-monitor-from-scratch-bdb1ebe30b25?source=rss-65fba88b5e52------2)
 - [Understanding Constructor Functions in Go](https://medium.com/@rk90229/demystifying-go-constructors-a-beginners-guide-c9d4345c7d29?source=rss-65fba88b5e52------2)
 - [Git Filter-Repo: Rewrite Git History](https://medium.com/@rk90229/git-filter-repo-rewrite-git-history-3fff125ada4a?source=rss-65fba88b5e52------2)
 - [Go Functions vs. Methods:](https://medium.com/@rk90229/go-functions-vs-methods-053d626a3219?source=rss-65fba88b5e52------2)
-- [How to Build an HTTP Server in Go: Part 2 — Graceful Shutdown and Timeouts](https://medium.com/@rk90229/how-to-build-an-http-server-in-go-part-2-graceful-shutdown-and-timeouts-008d90e42da2?source=rss-65fba88b5e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
