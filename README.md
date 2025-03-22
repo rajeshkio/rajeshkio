@@ -26,11 +26,11 @@
 
 ### My Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Vault + Kubernetes Auth: The Certificate Management Solution I Wish I’d Known Earlier](https://medium.com/@rk90229/vault-kubernetes-auth-the-certificate-management-solution-i-wish-id-known-earlier-c90084a4ff10?source=rss-65fba88b5e52------2)
 - [Understanding Go Embeddings: A Deep Dive into Struct Composition](https://medium.com/@rk90229/understanding-go-embeddings-a-deep-dive-into-struct-composition-29704b22964d?source=rss-65fba88b5e52------2)
 - [Kubernetes Go Client Deep Dive: Building a Pod Resource Monitor from Scratch](https://medium.com/@rk90229/kubernetes-go-client-deep-dive-building-a-pod-resource-monitor-from-scratch-bdb1ebe30b25?source=rss-65fba88b5e52------2)
 - [Understanding Constructor Functions in Go](https://medium.com/@rk90229/demystifying-go-constructors-a-beginners-guide-c9d4345c7d29?source=rss-65fba88b5e52------2)
 - [Git Filter-Repo: Rewrite Git History](https://medium.com/@rk90229/git-filter-repo-rewrite-git-history-3fff125ada4a?source=rss-65fba88b5e52------2)
-- [Go Functions vs. Methods:](https://medium.com/@rk90229/go-functions-vs-methods-053d626a3219?source=rss-65fba88b5e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
