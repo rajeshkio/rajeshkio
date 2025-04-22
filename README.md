@@ -26,11 +26,11 @@
 
 ### My Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Eliminate ‘Too Many Redirects’ Errors When Deploying ArgoCD with Gateway API](https://medium.com/@rk90229/eliminate-too-many-redirects-errors-when-deploying-argocd-with-gateway-api-8e64163b0d4e?source=rss-65fba88b5e52------2)
 - [From Zero to Production: Building a Rock-Solid K3s Cluster with PostgreSQL](https://medium.com/@rk90229/from-zero-to-production-building-a-rock-solid-k3s-cluster-with-postgresql-676dcd678ae4?source=rss-65fba88b5e52------2)
 - [The Ultimate Guide to Helm Chart Customization That DevOps Beginners Wish They Had](https://medium.com/@rk90229/the-ultimate-guide-to-helm-chart-customization-that-devops-beginners-wish-they-had-892f54853dc1?source=rss-65fba88b5e52------2)
 - [Vault + Kubernetes Auth: The Certificate Management Solution I Wish I’d Known Earlier](https://medium.com/@rk90229/vault-kubernetes-auth-the-certificate-management-solution-i-wish-id-known-earlier-c90084a4ff10?source=rss-65fba88b5e52------2)
 - [Understanding Go Embeddings: A Deep Dive into Struct Composition](https://medium.com/@rk90229/understanding-go-embeddings-a-deep-dive-into-struct-composition-29704b22964d?source=rss-65fba88b5e52------2)
-- [Kubernetes Go Client Deep Dive: Building a Pod Resource Monitor from Scratch](https://medium.com/@rk90229/kubernetes-go-client-deep-dive-building-a-pod-resource-monitor-from-scratch-bdb1ebe30b25?source=rss-65fba88b5e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
