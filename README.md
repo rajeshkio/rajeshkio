@@ -26,11 +26,11 @@
 
 ### My Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Upgrading Raspberry Pi NFS Storage: From SD Card to High-Performance SSDs](https://medium.com/@rk90229/upgrading-raspberry-pi-nfs-storage-from-sd-card-to-high-performance-ssds-30232a7b9478?source=rss-65fba88b5e52------2)
 - [Solving Kubernetes DNS Performance Issues with CoreDNS Autopath Plugin](https://medium.com/@rk90229/solving-kubernetes-dns-performance-issues-with-coredns-autopath-plugin-3650eb0c477a?source=rss-65fba88b5e52------2)
 - [Building a Proxmox Cluster with Raspberry Pi NFS Storage](https://medium.com/@rk90229/building-a-proxmox-cluster-with-raspberry-pi-nfs-storage-db94be5529c2?source=rss-65fba88b5e52------2)
 - [Why I Abandoned AWS Route53: My Cloudflare Migration Journey for On-Prem Kubernetes](https://medium.com/@rk90229/why-i-abandoned-aws-route53-my-cloudflare-migration-journey-for-on-prem-kubernetes-0a724346c2bc?source=rss-65fba88b5e52------2)
 - [Eliminate ‘Too Many Redirects’ Errors When Deploying ArgoCD with Gateway API](https://medium.com/@rk90229/eliminate-too-many-redirects-errors-when-deploying-argocd-with-gateway-api-8e64163b0d4e?source=rss-65fba88b5e52------2)
-- [From Zero to Production: Building a Rock-Solid K3s Cluster with PostgreSQL](https://medium.com/@rk90229/from-zero-to-production-building-a-rock-solid-k3s-cluster-with-postgresql-676dcd678ae4?source=rss-65fba88b5e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
