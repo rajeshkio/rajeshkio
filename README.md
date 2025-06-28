@@ -26,7 +26,7 @@
 
 ### My Latest Articles
 <!-- BLOG-POST-LIST:START -->
-- [MLOps Without the Hype: Real Hardware, Real Code, Real Performance](https://medium.com/@rk90229/mlops-without-the-hype-real-hardware-real-code-real-performance-65e934651314?source=rss-65fba88b5e52------2)
+- [What I Learned Building MLOps on My Existing Intel NUC](https://medium.com/@rk90229/mlops-without-the-hype-real-hardware-real-code-real-performance-65e934651314?source=rss-65fba88b5e52------2)
 - [Upgrading Raspberry Pi NFS Storage: From SD Card to High-Performance SSDs](https://medium.com/@rk90229/upgrading-raspberry-pi-nfs-storage-from-sd-card-to-high-performance-ssds-30232a7b9478?source=rss-65fba88b5e52------2)
 - [Solving Kubernetes DNS Performance Issues with CoreDNS Autopath Plugin](https://medium.com/@rk90229/solving-kubernetes-dns-performance-issues-with-coredns-autopath-plugin-3650eb0c477a?source=rss-65fba88b5e52------2)
 - [Building a Proxmox Cluster with Raspberry Pi NFS Storage](https://medium.com/@rk90229/building-a-proxmox-cluster-with-raspberry-pi-nfs-storage-db94be5529c2?source=rss-65fba88b5e52------2)
