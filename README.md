@@ -26,11 +26,11 @@
 
 ### My Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Building a Self-Configuring K3s Cluster with Pulumi, Proxmox and Go](https://medium.com/@rk90229/building-a-self-configuring-k3s-cluster-with-pulumi-proxmox-and-go-050af67d620e?source=rss-65fba88b5e52------2)
 - [Why Proxmox Web UI Can’t Handle Cloud Images &lpar;And How to Fix It&rpar;](https://medium.com/@rk90229/why-proxmox-web-ui-cant-handle-cloud-images-and-how-to-fix-it-b0183739ab8f?source=rss-65fba88b5e52------2)
 - [Go Function Types for Beginners: Stop Writing Giant Switch Statements](https://medium.com/@rk90229/refactoring-go-switch-statements-with-function-types-a-practical-guide-8e0417b31dc4?source=rss-65fba88b5e52------2)
 - [What I Learned Building MLOps on My Existing Intel NUC](https://medium.com/@rk90229/mlops-without-the-hype-real-hardware-real-code-real-performance-65e934651314?source=rss-65fba88b5e52------2)
 - [Upgrading Raspberry Pi NFS Storage: From SD Card to High-Performance SSDs](https://medium.com/@rk90229/upgrading-raspberry-pi-nfs-storage-from-sd-card-to-high-performance-ssds-30232a7b9478?source=rss-65fba88b5e52------2)
-- [Solving Kubernetes DNS Performance Issues with CoreDNS Autopath Plugin](https://medium.com/@rk90229/solving-kubernetes-dns-performance-issues-with-coredns-autopath-plugin-3650eb0c477a?source=rss-65fba88b5e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
