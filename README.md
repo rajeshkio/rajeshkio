@@ -26,11 +26,11 @@
 
 ### My Latest Articles
 <!-- BLOG-POST-LIST:START -->
-- [Building a Self-Configuring K3s Cluster with Pulumi, Proxmox and Go](https://medium.com/@rk90229/building-a-self-configuring-k3s-cluster-with-pulumi-proxmox-and-go-4b52e8be3df0?source=rss-65fba88b5e52------2)
+- [Building a Self-Configuring K3s Cluster with Pulumi, Proxmox, and Go](https://medium.com/@rk90229/building-a-self-configuring-k3s-cluster-with-pulumi-proxmox-and-go-fb284d9ce948?source=rss-65fba88b5e52------2)
+- [Building a Self-Configuring K3s Cluster with Pulumi, Proxmox, and Go](https://medium.com/@rk90229/building-a-self-configuring-k3s-cluster-with-pulumi-proxmox-and-go-4b52e8be3df0?source=rss-65fba88b5e52------2)
 - [Building a Self-Configuring K3s Cluster with Pulumi, Proxmox, and Go](https://medium.com/@rk90229/building-a-self-configuring-k3s-cluster-with-pulumi-proxmox-and-go-da213d4be3ac?source=rss-65fba88b5e52------2)
 - [Building a Self-Configuring K3s Cluster with Pulumi, Proxmox, and Go](https://medium.com/@rk90229/building-a-self-configuring-k3s-cluster-with-pulumi-proxmox-and-go-b3eb800bd9fa?source=rss-65fba88b5e52------2)
 - [iPXE + Harvester: Automate Kubernetes Hypervisor Deployment in 15 Minutes](https://medium.com/@rk90229/ipxe-for-beginners-boot-servers-over-the-network-66281725b2ca?source=rss-65fba88b5e52------2)
-- [Building a Self-Configuring K3s Cluster with Pulumi, Proxmox and Go](https://medium.com/@rk90229/building-a-self-configuring-k3s-cluster-with-pulumi-proxmox-and-go-050af67d620e?source=rss-65fba88b5e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
