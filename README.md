@@ -26,11 +26,11 @@
 
 ### My Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Go Concurrency: From Slow to Lightning Fast](https://medium.com/@rk90229/go-concurrency-from-slow-to-lightning-fast-d59c13e5fbb2?source=rss-65fba88b5e52------2)
 - [Kubernetes Certificate Management: From Outages to Automation](https://medium.com/@rk90229/kubernetes-certificate-management-from-outages-to-automation-f4ddc518becd?source=rss-65fba88b5e52------2)
 - [Pulumi Confused Me Until I Learned These Basics](https://medium.com/@rk90229/pulumi-confused-me-until-i-learned-these-basics-a7f817e3c666?source=rss-65fba88b5e52------2)
 - [Fixing Proxmox NFS Storage I/O Errors After Reboot: Complete LVM Device Mapper Recovery Guide](https://medium.com/@rk90229/fixing-proxmox-nfs-storage-i-o-errors-after-reboot-complete-lvm-device-mapper-recovery-guide-a7ba9acdfb41?source=rss-65fba88b5e52------2)
 - [Building a Self-Configuring K3s Cluster with Pulumi, Proxmox, and Go](https://medium.com/@rk90229/building-a-self-configuring-k3s-cluster-with-pulumi-proxmox-and-go-792d1b90e0f9?source=rss-65fba88b5e52------2)
-- [Building a Self-Configuring K3s Cluster with Pulumi, Proxmox, and Go](https://medium.com/@rk90229/building-a-self-configuring-k3s-cluster-with-pulumi-proxmox-and-go-fb284d9ce948?source=rss-65fba88b5e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
