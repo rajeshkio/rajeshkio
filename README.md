@@ -1,30 +1,24 @@
-# 💫 About Me:
+# Hey, I'm Rajesh 👋
 
-👋 Hello there! I'm Rajesh Kumar, a passionate DevOps and Site Reliability Engineer (SRE) with a strong commitment to automating and optimizing all things infrastructure. I thrive in the dynamic intersection of development and operations, where my goal is to deliver reliable, scalable, and secure systems.
+DevOps Engineer who likes to automate stuff so I can sleep better at night.
 
-🔧 With a toolbox filled with cutting-edge DevOps tools, I'm dedicated to creating efficient CI/CD pipelines, managing containers and orchestration with Kubernetes, and ensuring infrastructure as code (IaC) practices are at the core of everything I do. My daily mission is to eliminate manual toil, reduce downtime, and enhance system performance.
+Been working with servers, containers, and cloud things for a while now. My job is making sure apps don't crash when everyone's trying to use them at the same time.
 
-🛠️ I have a diverse skill set that includes:
-- Infrastructure as Code (Terraform, Ansible)
-- Containerization and Orchestration (Docker, Kubernetes)
-- Continuous Integration/Continuous Deployment (CI/CD)
-- Cloud Platforms (AWS, GCP)
-- Monitoring and Alerting (Prometheus, Grafana)
-- Incident Response and Postmortems
-- Scripting and Automation (Bash, Python, Golang)
-- Security Best Practices and Compliance
+## What keeps me busy
 
-🚀 I'm a firm believer in the DevOps culture, emphasizing collaboration, communication, and transparency between development and operations teams. I understand the importance of robust monitoring, proactive incident response, and disaster recovery planning to maintain the availability and reliability of services.
+I work with Kubernetes a lot. Also write Terraform configs and set up CI/CD pipelines. When something breaks at 2 AM, I'm usually the one fixing it.
 
-🌟 Let's connect and collaborate on exciting projects that involve infrastructure automation, cloud architecture, and reliability engineering. Feel free to reach out for discussions, collaboration, or just to chat about DevOps, SRE, or any tech-related topics.
+Most of my day involves:
+- Making deployment processes that don't need manual steps
+- Setting up monitoring so we know when things go wrong
+- Writing automation scripts in Python and Go
+- Managing AWS and GCP infrastructure
+- Helping developers deploy their code without breaking production
 
-📫 Looking forward to making the digital world more resilient, one deployment at a time!
- 
-🌐 Socials:
+## Stuff I've written about
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-kumar-624082ab/) 
+I write about problems I've solved. Maybe it'll help someone else who's stuck with the same issue.
 
-### My Latest Articles
 <!-- BLOG-POST-LIST:START -->
 - [From USB to M.2 NVMe: Complete Migration Guide for Raspberry Pi 5 Proxmox Cluster](https://medium.com/@rk90229/from-usb-to-m-2-nvme-complete-migration-guide-for-raspberry-pi-5-proxmox-cluster-eb5f67f2a9df?source=rss-65fba88b5e52------2)
 - [Go Concurrency: From Slow to Lightning Fast](https://medium.com/@rk90229/go-concurrency-from-slow-to-lightning-fast-d59c13e5fbb2?source=rss-65fba88b5e52------2)
@@ -33,12 +27,28 @@
 - [Fixing Proxmox NFS Storage I/O Errors After Reboot: Complete LVM Device Mapper Recovery Guide](https://medium.com/@rk90229/fixing-proxmox-nfs-storage-i-o-errors-after-reboot-complete-lvm-device-mapper-recovery-guide-a7ba9acdfb41?source=rss-65fba88b5e52------2)
 <!-- BLOG-POST-LIST:END -->
 
+## Tools I use
 
-# 💻 Tech Stack:
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)  ![Argocd](https://img.shields.io/badge/argocd-11.svg?style=for-the-badge&logo=argo&logoColor=white&color=orange&link=https%3A%2F%2Fargo-cd.readthedocs.io%2F) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitOps](https://img.shields.io/badge/gitops-11.svg?style=for-the-badge&logo=git&logoColor=white&color=blue&link=https%3A%2F%2Fgithub.com%2Freadme%2Ffeatured%2Fdefining-gitops) ![Grafana](https://img.shields.io/badge/grafana-11.svg?style=for-the-badge&logo=grafana&logoColor=white&color=orange&link=https%3A%2F%2Fgrafana.com%2F) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NeuVector](https://img.shields.io/badge/neuvector-1223.svg?style=for-the-badge&logo=neuvector&logoColor=neuvector&color=blue&link=https%3A%2F%2Fopen-docs.neuvector.com%2F) ![Networking](https://img.shields.io/badge/networking-11.svg?style=for-the-badge&logo=networking&logoColor=white&color=blue&link=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FComputer_network) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Prometheus](https://img.shields.io/badge/prometheus-11.svg?style=for-the-badge&logo=prometheus&logoColor=white&color=black&link=https%3A%2F%2Fprometheus.io)
- ![Python](https://img.shields.io/badge/python-1.svg?style=for-the-badge&logo=Python&logoColor=white&color=blue&link=https%3A%2F%2Fwww.python.org%2F)  ![Pulumi](https://img.shields.io/badge/pulumi-11.svg?style=for-the-badge&logo=pulumi&logoColor=white&color=blue&link=https%3A%2F%2Fwww.pulumi.com%2F) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)  
+**Container stuff**: Docker for packaging apps, Kubernetes for running them. ArgoCD handles deployments through Git.
 
-# 📊 GitHub Stats:
+**Infrastructure**: Terraform for cloud resources, Ansible when I need to configure servers. Pulumi when I want to write infrastructure in actual programming languages.
+
+**Monitoring**: Prometheus collects metrics, Grafana makes pretty charts. They tell me when things are about to break.
+
+**Cloud**: AWS mostly, some GCP. DigitalOcean for personal projects because it's simple.
+
+**Languages**: Go for backend services, Python for scripts and automation. Bash when I need something quick and dirty.
+
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-1.svg?style=for-the-badge&logo=Python&logoColor=white&color=blue&link=https%3A%2F%2Fwww.python.org%2F) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Prometheus](https://img.shields.io/badge/prometheus-11.svg?style=for-the-badge&logo=prometheus&logoColor=white&color=black&link=https%3A%2F%2Fprometheus.io) ![Grafana](https://img.shields.io/badge/grafana-11.svg?style=for-the-badge&logo=grafana&logoColor=white&color=orange&link=https%3A%2F%2Fgrafana.com%2F) ![Argocd](https://img.shields.io/badge/argocd-11.svg?style=for-the-badge&logo=argo&logoColor=white&color=orange&link=https%3A%2F%2Fargo-cd.readthedocs.io%2F)
+
+## Want to chat?
+
+If you're dealing with infrastructure problems or just want to talk about tech stuff, feel free to reach out. Always interested in hearing about different approaches to solving things.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-kumar-624082ab/) 
+
+## GitHub stats
+
 ![](https://github-readme-stats.vercel.app/api?username=rajeshkio&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rajeshkio&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshkio&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
