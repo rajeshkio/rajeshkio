@@ -20,11 +20,11 @@ Most of my day involves:
 I write about problems I've solved. Maybe it'll help someone else who's stuck with the same issue.
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Linux Links: How Files Actually Work](https://medium.com/@rk90229/understanding-linux-links-how-files-actually-work-a1105d7cec22?source=rss-65fba88b5e52------2)
 - [Linux System Calls Deep Dive: Part 3 write&lpar;&rpar; System Call](https://medium.com/@rk90229/linux-system-calls-deep-dive-part-3-write-system-call-d82724e393d2?source=rss-65fba88b5e52------2)
 - [Deep Dive: Understanding the read&lpar;&rpar; System Call From File Descriptors to Data Flow](https://medium.com/@rk90229/deep-dive-understanding-the-read-system-call-from-file-descriptors-to-data-flow-ed090d42c613?source=rss-65fba88b5e52------2)
 - [Deep Dive: Understanding Linux System Calls — A Practical Guide](https://medium.com/@rk90229/deep-dive-understanding-linux-system-calls-a-practical-guide-c851204c4783?source=rss-65fba88b5e52------2)
 - [Context-Aware Shell Aliases: Never Forget Your Shortcuts Again](https://medium.com/@rk90229/context-aware-shell-aliases-never-forget-your-shortcuts-again-b675bdb37940?source=rss-65fba88b5e52------2)
-- [Linux Kernel Crash Analysis: From Zero to Root Cause](https://medium.com/@rk90229/linux-kernel-crash-analysis-from-zero-to-root-cause-4d97f81e8a53?source=rss-65fba88b5e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools I use
