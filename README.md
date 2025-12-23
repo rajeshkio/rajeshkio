@@ -12,7 +12,7 @@ Most of my day involves:
 - Making deployment processes that don't need manual steps
 - Setting up monitoring so we know when things go wrong
 - Writing automation scripts in Python and Go
-- Managing AWS and GCP infrastructure
+- Managing AWS infrastructure
 - Helping developers deploy their code without breaking production
 
 ## Stuff I've written about
