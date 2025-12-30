@@ -20,11 +20,11 @@ Most of my day involves:
 I write about problems I've solved. Maybe it'll help someone else who's stuck with the same issue.
 
 <!-- BLOG-POST-LIST:START -->
+- [TAP Devices and Linux Bridges: Complete Guide to VM Networking](https://medium.com/@rk90229/tap-devices-and-linux-bridges-complete-guide-to-vm-networking-8ec1f3ca598a?source=rss-65fba88b5e52------2)
 - [When Cilium Gateway Returns 404: A Two-Hour Debugging Mystery](https://medium.com/@rk90229/when-cilium-gateway-returns-404-a-two-hour-debugging-mystery-16b8ca6c8e3b?source=rss-65fba88b5e52------2)
 - [Linux Hard Links Explained: How Multiple Names Point to One File &lpar;With Examples&rpar;](https://medium.com/@rk90229/linux-hard-links-explained-how-multiple-names-point-to-one-file-with-examples-4e6e5cd2685f?source=rss-65fba88b5e52------2)
 - [How to Add Multiple IP Addresses to One Network Interface in Linux](https://medium.com/@rk90229/how-to-add-multiple-ip-addresses-to-one-network-interface-in-linux-2ed1dd6eaa92?source=rss-65fba88b5e52------2)
 - [Understanding Linux Links: How Files Actually Work](https://medium.com/@rk90229/understanding-linux-links-how-files-actually-work-a1105d7cec22?source=rss-65fba88b5e52------2)
-- [Linux System Calls Deep Dive: Part 3 write&lpar;&rpar; System Call](https://medium.com/@rk90229/linux-system-calls-deep-dive-part-3-write-system-call-d82724e393d2?source=rss-65fba88b5e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools I use
