@@ -20,11 +20,11 @@ Most of my day involves:
 I write about problems I've solved. Maybe it'll help someone else who's stuck with the same issue.
 
 <!-- BLOG-POST-LIST:START -->
+- [Migrating Raspberry Pi 5 from SD Card to NVMe: Complete Troubleshooting Guide](https://medium.com/@rk90229/migrating-raspberry-pi-5-from-sd-card-to-nvme-complete-troubleshooting-guide-4f0de0125e7c?source=rss-65fba88b5e52------2)
 - [Building Self-Healing Kubernetes Clusters on Proxmox with Cluster API and Cilium](https://medium.com/@rk90229/building-self-healing-kubernetes-clusters-on-proxmox-with-cluster-api-and-cilium-d6805739a48a?source=rss-65fba88b5e52------2)
 - [Fix “Loop Detected for Zone” Error in RKE2 CoreDNS](https://medium.com/@rk90229/fix-loop-detected-for-zone-error-in-rke2-coredns-15dd65777d97?source=rss-65fba88b5e52------2)
 - [TAP Devices and Linux Bridges: Complete Guide to VM Networking](https://medium.com/@rk90229/tap-devices-and-linux-bridges-complete-guide-to-vm-networking-8ec1f3ca598a?source=rss-65fba88b5e52------2)
 - [When Cilium Gateway Returns 404: A Two-Hour Debugging Mystery](https://medium.com/@rk90229/when-cilium-gateway-returns-404-a-two-hour-debugging-mystery-16b8ca6c8e3b?source=rss-65fba88b5e52------2)
-- [Linux Hard Links Explained: How Multiple Names Point to One File &lpar;With Examples&rpar;](https://medium.com/@rk90229/linux-hard-links-explained-how-multiple-names-point-to-one-file-with-examples-4e6e5cd2685f?source=rss-65fba88b5e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools I use
