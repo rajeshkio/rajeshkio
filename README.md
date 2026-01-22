@@ -20,11 +20,11 @@ Most of my day involves:
 I write about problems I've solved. Maybe it'll help someone else who's stuck with the same issue.
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux System Calls Deep Dive: Part 4 close&lpar;&rpar; and Resource Cleanup](https://medium.com/@rk90229/linux-system-calls-deep-dive-part-4-close-and-resource-cleanup-1ea1b75f293c?source=rss-65fba88b5e52------2)
 - [Building Your Private Photo Cloud: Immich on Kubernetes and Docker Compose](https://medium.com/@rk90229/building-your-private-photo-cloud-immich-on-kubernetes-and-docker-compose-c9c5f49296e3?source=rss-65fba88b5e52------2)
 - [Migrating Raspberry Pi 5 from SD Card to NVMe: Complete Troubleshooting Guide](https://medium.com/@rk90229/migrating-raspberry-pi-5-from-sd-card-to-nvme-complete-troubleshooting-guide-4f0de0125e7c?source=rss-65fba88b5e52------2)
 - [Building Self-Healing Kubernetes Clusters on Proxmox with Cluster API and Cilium](https://medium.com/@rk90229/building-self-healing-kubernetes-clusters-on-proxmox-with-cluster-api-and-cilium-d6805739a48a?source=rss-65fba88b5e52------2)
 - [Fix “Loop Detected for Zone” Error in RKE2 CoreDNS](https://medium.com/@rk90229/fix-loop-detected-for-zone-error-in-rke2-coredns-15dd65777d97?source=rss-65fba88b5e52------2)
-- [TAP Devices and Linux Bridges: Complete Guide to VM Networking](https://medium.com/@rk90229/tap-devices-and-linux-bridges-complete-guide-to-vm-networking-8ec1f3ca598a?source=rss-65fba88b5e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools I use
