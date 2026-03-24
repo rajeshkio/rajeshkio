@@ -20,11 +20,11 @@ Most of my day involves:
 I write about problems I've solved. Maybe it'll help someone else who's stuck with the same issue.
 
 <!-- BLOG-POST-LIST:START -->
+- [I Connected My RAG System to Warp. Here Is What I Learned.](https://medium.com/@rk90229/i-connected-my-rag-system-to-warp-here-is-what-i-learned-053792ee19dd?source=rss-65fba88b5e52------2)
 - [I Migrated Milvus Storage from MinIO to Garage in Kubernetes Here’s How](https://medium.com/@rk90229/i-migrated-milvus-storage-from-minio-to-garage-in-kubernetes-heres-how-5d693b781139?source=rss-65fba88b5e52------2)
 - [Migrating OpenWebUI from SQLite to PostgreSQL on Kubernetes](https://medium.com/@rk90229/migrating-openwebui-from-sqlite-to-postgresql-on-kubernetes-ee1532b82d1c?source=rss-65fba88b5e52------2)
 - [Minio is Dead:A Guide to Velero + Garage S3 for RKE2 Clusters](https://medium.com/@rk90229/a-guide-to-velero-garage-s3-for-rke2-clusters-5367c1633c75?source=rss-65fba88b5e52------2)
 - [Running ComfyUI on Kubernetes Alongside Ollama with GPU Time-Slicing](https://medium.com/@rk90229/running-comfyui-on-kubernetes-alongside-ollama-with-gpu-time-slicing-11059a2ab8fb?source=rss-65fba88b5e52------2)
-- [The etcd Crash That Took Me Three Layers Deep](https://medium.com/@rk90229/the-etcd-crash-that-took-me-three-layers-deep-fe95d01d48e3?source=rss-65fba88b5e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools I use
