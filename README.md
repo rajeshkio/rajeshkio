@@ -20,11 +20,11 @@ Most of my day involves:
 I write about problems I've solved. Maybe it'll help someone else who's stuck with the same issue.
 
 <!-- BLOG-POST-LIST:START -->
+- [KubeVirt Storage Internals: How CDI, DataVolumes, and PVCs wire up to a running VM](https://medium.com/@rk90229/kubevirt-storage-internals-how-cdi-datavolumes-and-pvcs-wire-up-to-a-running-vm-d4de5d7d6c14?source=rss-65fba88b5e52------2)
 - [What happens when you run kubectl apply](https://medium.com/@rk90229/what-happens-when-you-run-kubectl-apply-c5b396949ee0?source=rss-65fba88b5e52------2)
 - [How to Check If Your Local Git Branch Is Clean Before Branching](https://medium.com/@rk90229/how-to-check-if-your-local-git-branch-is-clean-before-branching-66913506f0e1?source=rss-65fba88b5e52------2)
 - [I Connected My RAG System to Warp. Here Is What I Learned.](https://medium.com/@rk90229/i-connected-my-rag-system-to-warp-here-is-what-i-learned-053792ee19dd?source=rss-65fba88b5e52------2)
 - [I Migrated Milvus Storage from MinIO to Garage in Kubernetes Here’s How](https://medium.com/@rk90229/i-migrated-milvus-storage-from-minio-to-garage-in-kubernetes-heres-how-5d693b781139?source=rss-65fba88b5e52------2)
-- [Migrating OpenWebUI from SQLite to PostgreSQL on Kubernetes](https://medium.com/@rk90229/migrating-openwebui-from-sqlite-to-postgresql-on-kubernetes-ee1532b82d1c?source=rss-65fba88b5e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools I use
