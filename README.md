@@ -20,11 +20,11 @@ Most of my day involves:
 I write about problems I've solved. Maybe it'll help someone else who's stuck with the same issue.
 
 <!-- BLOG-POST-LIST:START -->
+- [I Built a BPE Tokenizer From Scratch in Python And Finally Understand How LLMs Work](https://medium.com/@rk90229/i-built-a-bpe-tokenizer-from-scratch-in-python-and-finally-understand-how-llms-work-4d1034d264ed?source=rss-65fba88b5e52------2)
 - [Python Stock Tracker: Modules, Fundamentals, and CLI Flags with argparse](https://medium.com/@rk90229/python-stock-tracker-modules-fundamentals-and-cli-flags-with-argparse-3ee72d8ea39f?source=rss-65fba88b5e52------2)
 - [Building a Live Stock Portfolio Tracker in Python with yfinance and Rich](https://medium.com/@rk90229/building-a-live-stock-portfolio-tracker-in-python-with-yfinance-and-rich-1ad6c51a0ea5?source=rss-65fba88b5e52------2)
 - [Building a Kubernetes Operator from Scratch: Automate Cloudflare Tunnel with HTTPRoute](https://medium.com/@rk90229/building-a-kubernetes-operator-from-scratch-automate-cloudflare-tunnel-with-httproute-421d6642dc11?source=rss-65fba88b5e52------2)
 - [How to Set Up Cloudflare Tunnel on Kubernetes and How It Actually Works Inside](https://medium.com/@rk90229/how-to-set-up-cloudflare-tunnel-on-kubernetes-and-how-it-actually-works-inside-91e11a35c84c?source=rss-65fba88b5e52------2)
-- [Why Proxmox VMs Lose Network After Installing RKE2 on the Host](https://medium.com/@rk90229/why-proxmox-vms-lose-network-after-installing-rke2-on-the-host-ccdbd1434690?source=rss-65fba88b5e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools I use
