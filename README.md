@@ -20,11 +20,11 @@ Most of my day involves:
 I write about problems I've solved. Maybe it'll help someone else who's stuck with the same issue.
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Run Virtual Kubernetes Clusters with k3k, ArgoCD and Cloudflare Tunnels](https://medium.com/@rk90229/how-i-run-virtual-kubernetes-clusters-with-k3k-argocd-and-cloudflare-tunnels-e9dd6b7fd414?source=rss-65fba88b5e52------2)
 - [Controller-gen: Building a Custom Kubernetes CRD Without kubebuilder](https://medium.com/@rk90229/controller-gen-building-a-custom-kubernetes-crd-without-kubebuilder-6c8f1e809150?source=rss-65fba88b5e52------2)
 - [Kubernetes Pod Security Context: Harden Containers With Seccomp, Capabilities, And Resource Limits](https://medium.com/@rk90229/kubernetes-pod-security-context-harden-containers-with-seccomp-capabilities-and-resource-limits-f9b858a030a7?source=rss-65fba88b5e52------2)
 - [I Built a BPE Tokenizer From Scratch in Python And Finally Understand How LLMs Work](https://medium.com/@rk90229/i-built-a-bpe-tokenizer-from-scratch-in-python-and-finally-understand-how-llms-work-4d1034d264ed?source=rss-65fba88b5e52------2)
 - [Python Stock Tracker: Modules, Fundamentals, and CLI Flags with argparse](https://medium.com/@rk90229/python-stock-tracker-modules-fundamentals-and-cli-flags-with-argparse-3ee72d8ea39f?source=rss-65fba88b5e52------2)
-- [Building a Live Stock Portfolio Tracker in Python with yfinance and Rich](https://medium.com/@rk90229/building-a-live-stock-portfolio-tracker-in-python-with-yfinance-and-rich-1ad6c51a0ea5?source=rss-65fba88b5e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools I use
