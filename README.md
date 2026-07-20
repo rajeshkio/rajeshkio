@@ -20,11 +20,11 @@ Most of my day involves:
 I write about problems I've solved. Maybe it'll help someone else who's stuck with the same issue.
 
 <!-- BLOG-POST-LIST:START -->
+- [LVM Thin Pools: Thick vs Thin, Overcommit, Failure, and Recovery](https://medium.com/@rk90229/lvm-thin-pools-thick-vs-thin-overcommit-failure-and-recovery-ccd12cfced0e?source=rss-65fba88b5e52------2)
 - [A Netplan and systemd-networkd Routing Issue: From Host Unreachable to Root Cause](https://medium.com/@rk90229/a-netplan-and-systemd-networkd-routing-issue-from-host-unreachable-to-root-cause-c4a1689dd171?source=rss-65fba88b5e52------2)
 - [How to Build an MCP Server in Go and Connect It to Claude Desktop](https://medium.com/@rk90229/how-to-build-an-mcp-server-in-go-and-connect-it-to-claude-desktop-ffafdc76c45b?source=rss-65fba88b5e52------2)
 - [Securing Every Service Using Cloudflare Zero Trust Without Touching The Dashboard](https://medium.com/@rk90229/securing-every-service-using-cloudflare-zero-trust-without-touching-the-dashboard-f80c6b28fff2?source=rss-65fba88b5e52------2)
 - [How I Run Virtual Kubernetes Clusters with k3k, ArgoCD and Cloudflare Tunnels](https://medium.com/@rk90229/how-i-run-virtual-kubernetes-clusters-with-k3k-argocd-and-cloudflare-tunnels-e9dd6b7fd414?source=rss-65fba88b5e52------2)
-- [Controller-gen: Building a Custom Kubernetes CRD Without kubebuilder](https://medium.com/@rk90229/controller-gen-building-a-custom-kubernetes-crd-without-kubebuilder-6c8f1e809150?source=rss-65fba88b5e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools I use
