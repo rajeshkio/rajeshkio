@@ -21,7 +21,7 @@ I write about problems I've solved. Maybe it'll help someone else who's stuck wi
 
 <!-- BLOG-POST-LIST:START -->
 - [The Istio Canary Deployment Guide I Wish I Had: DestinationRule and VirtualService](https://medium.com/@rk90229/the-istio-canary-deployment-guide-i-wish-i-had-destinationrule-and-virtualservice-ce8878d576b6?source=rss-65fba88b5e52------2)
-- [The Lazy Engineer’s Guide to Proxmox Node Failover](https://medium.com/@rk90229/the-lazy-engineers-guide-to-proxmox-node-failover-72f97c500850?source=rss-65fba88b5e52------2)
+- [How To Setup HAProxy For A 3 Node Proxmox Cluster](https://medium.com/@rk90229/the-lazy-engineers-guide-to-proxmox-node-failover-72f97c500850?source=rss-65fba88b5e52------2)
 - [LVM Thin Pools: Thick vs Thin, Overcommit, Failure, and Recovery](https://medium.com/@rk90229/lvm-thin-pools-thick-vs-thin-overcommit-failure-and-recovery-ccd12cfced0e?source=rss-65fba88b5e52------2)
 - [A Netplan and systemd-networkd Routing Issue: From Host Unreachable to Root Cause](https://medium.com/@rk90229/a-netplan-and-systemd-networkd-routing-issue-from-host-unreachable-to-root-cause-c4a1689dd171?source=rss-65fba88b5e52------2)
 - [How to Build an MCP Server in Go and Connect It to Claude Desktop](https://medium.com/@rk90229/how-to-build-an-mcp-server-in-go-and-connect-it-to-claude-desktop-ffafdc76c45b?source=rss-65fba88b5e52------2)
