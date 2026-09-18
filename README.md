@@ -47,11 +47,5 @@ If you're dealing with infrastructure problems or just want to talk about tech s
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-kumar-624082ab/) 
 
-## GitHub stats
-
-![](https://github-readme-stats.vercel.app/api?username=rajeshkio&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rajeshkio&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshkio&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=rajeshkio&icon=0&color=0)](https://visitcount.itsvg.in)
