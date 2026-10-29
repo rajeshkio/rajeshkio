@@ -20,11 +20,11 @@ Most of my day involves:
 I write about problems I've solved. Maybe it'll help someone else who's stuck with the same issue.
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Auto Scale EC2 Instances Based on Memory Usage with the CloudWatch Agent and an Auto Scaling…](https://medium.com/@rk90229/how-to-auto-scale-ec2-instances-based-on-memory-usage-with-the-cloudwatch-agent-and-an-auto-scaling-8eabcee693ab?source=rss-65fba88b5e52------2)
 - [A Practical Guide to Debugging High System CPU in a Python Server](https://medium.com/@rk90229/before-you-trust-ai-generated-code-measure-it-a-debugging-story-51e919abdae9?source=rss-65fba88b5e52------2)
 - [My Lab Server Had a Load Average of 87 While the CPU Sat Idle](https://medium.com/@rk90229/my-lab-server-had-a-load-average-of-87-while-the-cpu-sat-idle-803e1b3b2d6b?source=rss-65fba88b5e52------2)
 - [Building a Kubernetes Admission Policy in Go with Kubewarden, From Zero to a Live Cluster](https://medium.com/@rk90229/building-a-kubernetes-admission-policy-in-go-with-kubewarden-from-zero-to-a-live-cluster-27ba7748b657?source=rss-65fba88b5e52------2)
 - [The Istio Canary Deployment Guide I Wish I Had: DestinationRule and VirtualService](https://medium.com/@rk90229/the-istio-canary-deployment-guide-i-wish-i-had-destinationrule-and-virtualservice-ce8878d576b6?source=rss-65fba88b5e52------2)
-- [How To Setup HAProxy For A 3 Node Proxmox Cluster](https://medium.com/@rk90229/the-lazy-engineers-guide-to-proxmox-node-failover-72f97c500850?source=rss-65fba88b5e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools I use
